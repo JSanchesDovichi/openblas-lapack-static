@@ -1,2 +1,1 @@
-# openblas-lapack-static
-Automated updated build for openblas-lapack-static library
+Build with makepkg -sic
